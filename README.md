@@ -91,4 +91,8 @@ Data professionals work in various roles such as Data Analyst, Data Scientist, D
 - Business Insights Generation
 - DAX Calculations
 
-
+## Business Questions Answered
+- Which job role earns the highest salary?
+- Which programming language is most preferred?
+- How satisfied are professionals with their salary?
+- How difficult is it to break into data?
